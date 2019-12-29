@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸</title>
-    <updated>2019-12-26T03:46:41.883Z</updated>
+    <updated>2019-12-29T14:52:57.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
-    <link rel="self" href="https://leo-philo.github.io//atom.xml"/>
+    <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
     <subtitle>「Study as if you were to live forever，live as if you were to die tomorrow.  」</subtitle>
-    <logo>https://leo-philo.github.io//images/avatar.png</logo>
-    <icon>https://leo-philo.github.io//favicon.ico</icon>
+    <logo>https://leo-philo.github.io/images/avatar.png</logo>
+    <icon>https://leo-philo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 云宸</rights>
     <entry>
         <title type="html"><![CDATA[《Word Power Made Easy》学习笔记 | How To Talk About Doctors]]></title>
-        <id>https://leo-philo.github.io//post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors</id>
-        <link href="https://leo-philo.github.io//post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors">
+        <id>https://leo-philo.github.io/post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors</id>
+        <link href="https://leo-philo.github.io/post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors">
         </link>
         <updated>2019-12-02T04:58:42.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-internist-内科医生">1. internist : 内科医生</h2>
@@ -173,8 +173,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://leo-philo.github.io//post/hello-gridea</id>
-        <link href="https://leo-philo.github.io//post/hello-gridea">
+        <id>https://leo-philo.github.io/post/hello-gridea</id>
+        <link href="https://leo-philo.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
