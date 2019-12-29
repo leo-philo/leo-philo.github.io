@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
-    <title>云宸</title>
-    <updated>2019-12-29T14:52:57.165Z</updated>
+    <title>云宸的念想</title>
+    <updated>2019-12-29T14:55:36.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
     <subtitle>「Study as if you were to live forever，live as if you were to die tomorrow.  」</subtitle>
     <logo>https://leo-philo.github.io/images/avatar.png</logo>
     <icon>https://leo-philo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 云宸</rights>
+    <rights>All rights reserved 2019, 云宸的念想</rights>
     <entry>
         <title type="html"><![CDATA[《Word Power Made Easy》学习笔记 | How To Talk About Doctors]]></title>
         <id>https://leo-philo.github.io/post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors</id>
