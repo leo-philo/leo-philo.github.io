@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸的念想</title>
-    <updated>2019-12-30T13:14:23.723Z</updated>
+    <updated>2019-12-30T13:15:33.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://leo-philo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 云宸的念想</rights>
     <entry>
-        <title type="html"><![CDATA[如何利用指数型思维突破提高单词量]]></title>
+        <title type="html"><![CDATA[如何利用指数型思维突破提高1W词汇量]]></title>
         <id>https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang</id>
         <link href="https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang">
         </link>
@@ -19,6 +19,7 @@
         <content type="html"><![CDATA[<blockquote>
 <p>其实取这个标题的灵感来自于很久以前看过的一本书叫《指数型组织》，指数型思维是比线性思维更好的思维方式。</p>
 </blockquote>
+<p><strong>如果是按照一本乱序词汇书去背单词，你的词汇量增长是线性的，而利用词根去记忆单词你的词汇量将是指数型增长。你能够轻松的找到词汇之间的联系，记忆起来会更轻松更加深刻</strong>。</p>
 <h2 id="先晒一下学习成果"><strong>先晒一下学习成果</strong></h2>
 <figure data-type="image" tabindex="1"><img src="https://i.loli.net/2019/12/30/ZDRvPUIznirxsdX.jpg" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://i.loli.net/2019/12/30/PH5WUZrgGcAVEyu.jpg" alt="" loading="lazy"></figure>
@@ -49,7 +50,6 @@
 <p><em>logist</em>: 专家，学家（比如pyschologist,biologist）</p>
 <p>研究心脏的专家（心脏病专家）</p>
 <p>其实记住这些词根比记住这些生僻的单词更为重要，你无需纠结anthropology是不是人类学。你只用知道这些单词是由什么词根组成的就行了。</p>
-<p><strong>如果是按照一本乱序词汇书去背单词，你的词汇量增长是线性的，而利用词根去记忆单词你的词汇量将是指数型增长。你能够轻松的找到词汇之间的联系，记忆起来会更轻松更加深刻</strong>。</p>
 <h2 id="相关资源"><strong>相关资源</strong></h2>
 <ul>
 <li>平时碰到生词可以用  <a href="www.etymonline.com">www.etymonline.com</a>  查一下单词的词根构成。</li>
