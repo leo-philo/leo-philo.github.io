@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸的念想</title>
-    <updated>2020-01-01T07:39:09.742Z</updated>
+    <updated>2020-01-01T08:47:58.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
@@ -35,22 +35,24 @@
 <img src="https://i.loli.net/2020/01/01/6vJ28CrYZHuhXSN.png" alt="" loading="lazy"></p>
 <h1 id="04-学习">04 学习</h1>
 <p>2019年相比去年还是花了很多时间在学习上面。</p>
-<ul>
-<li>
+<h2 id="python">Python</h2>
 <p>2019年初Python最火的那段时间跟风学了网络爬虫，其实入门也挺简单，学了两个多星期就能上手做实战项目了。后面太懒没有继续深入学下去。像代理IP池，反爬，异步，抓包，多线程分布式这些东西都没有继续去学。</p>
-</li>
-<li>
+<h2 id="数学">数学</h2>
 <p>在得到APP上面买了吴军的《数学通识五十讲》的课，从此渐渐喜欢上了以前一直感到头疼的数学，对于学习这门学科更有信心了。然后看了几本和数学相关的书：《简单微积分》《世界观》《从一到无穷大》《概率论基础教程》</p>
-</li>
-<li>
+<h2 id="心理学">心理学</h2>
 <p>今年对心理学这门学科特别感兴趣，看了许多心理学方面的书籍，也在学校里面选修了几门和心理学有关的课《投资心理学》《心理学概论》《博弈论：基础与国际应用》《金融的逻辑》。现在知道了心理学其实有好多分支：行为经济学，认知心理学，社会心理学（阿伦森），个体心理学（阿德勒），精神分析学（弗洛伊德）。搞得我都想去修个心理学的学位了。</p>
-</li>
-<li>
-<p>坚持背单词，总结了一套属于自己的学习英语的方法。利用<em>一点英语</em>和<em>百词斩</em>测词汇量，一个是<strong>11179</strong>，一个是<strong>9242</strong>。姑且让我相信自己词汇量有1W吧😁</p>
-</li>
-<li>
-<p>在Coursera上面学完了Barbara Oakley的《Learn How To Learn》，学到了很多认知心理学和脑科学方面的知识</p>
-</li>
+<h2 id="英语">英语</h2>
+<p>坚持背单词，总结了一套属于自己的学习英语的方法。利用<em>一点英语</em>和<em>百词斩</em>测词汇量，一个是<strong>11179</strong>，一个是<strong>9242</strong>。姑且让我相信自己词汇量有1W吧😁。提升词汇量的文章参见<a href="https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang/">链接</a>。<br>
+<img src="https://i.loli.net/2020/01/01/4YDQSKdXsOCNULV.jpg" style="zoom:30%" /></p>
+<h2 id="微信小程序">微信小程序</h2>
+<p>做项目的原因需要学一下，水平也只是刚刚入门的阶段，所以只能说“学过”而不是“学会了”。凑个数。</p>
+<h2 id="慕课">慕课</h2>
+<ul>
+<li>在Coursera上面学完了Barbara Oakley的《Learn How To Learn》，学到了认知心理学和脑科学方面的知识。</li>
+<li>网易云课堂《EVERNOTE-颠覆你想象的高效笔记术》课程，我做的<a href="https://mubu.com/doc/CABLaeE5tg">笔记大纲</a>。</li>
+<li>网易云课堂朱丹的《12堂超级搜索术》。<a href="https://mubu.com/doc/CABLaeE5tg">整理笔记</a></li>
+<li>微信小程序入门。</li>
+<li>【Crash Course】 Computer Science，计算机科学速成课。<a href="https://www.bilibili.com/video/av21376839/">B站课程链接</a></li>
 </ul>
 <h1 id="05-身体与健康">05 身体与健康</h1>
 <p>依稀记得年初时候的计划：</p>
@@ -63,7 +65,7 @@
 </ul>
 <p>17年的自己<code>170cm</code>，<code>120斤</code>。现在的自己<code>175cm</code>，<code>132斤</code>。曾经的自己瘦得手无缚鸡之力，现在腹肌和人鱼线也都有了，这多亏了规律的锻炼和健康的饮食计划。<br>
 锻炼身体已经成为我生活习惯的一部分，毕竟身体是革命的本钱。最高兴的事莫过于偶然发现自己去年穿的衣服有点小，然后一去量发现长高了3厘米。嗯，看来坚持运动还是有助于长高的啊。</p>
-<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/01/01/zw5WtZbEyBk7Ahd.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/01/01/lB3QkgLJF62cZMI.jpg" alt="" loading="lazy"></figure>
 <h1 id="06-军运会志愿者">06 军运会志愿者</h1>
 <p>非常幸运地选上了军运会志愿者，虽然被分配在比较偏的梁子湖铁人三项分馆，但这次经历对我来说还是非常有意义，第一次能有机会和那些运动员近距离接触。当时培训和正式比赛的那些日子到现在还记忆尤新。</p>
 <p><img src="https://i.loli.net/2020/01/01/Ms2FVGSQBx4aoU9.png" alt="" loading="lazy"><br>
