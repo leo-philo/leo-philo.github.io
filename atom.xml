@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸的念想</title>
-    <updated>2020-01-02T00:25:55.361Z</updated>
+    <updated>2020-01-02T05:14:05.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
@@ -112,8 +112,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[如何利用指数型思维突破1W词汇量]]></title>
-        <id>https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang</id>
-        <link href="https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang">
+        <id>https://leo-philo.github.io/post/How-to-improve-your-vocabulary-with-exponential-thought</id>
+        <link href="https://leo-philo.github.io/post/How-to-improve-your-vocabulary-with-exponential-thought">
         </link>
         <updated>2019-12-30T13:00:57.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -174,8 +174,9 @@
         <link href="https://leo-philo.github.io/post/notes-word-power-made-easy">
         </link>
         <updated>2019-12-15T04:58:42.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="第一章-how-to-talk-about-personality">第一章 How To Talk About Personality</h1>
-<h2 id="1egoist-利己主义者">1.egoist :	利己主义者</h2>
+        <content type="html"><![CDATA[<p>这篇是对《Word Power Made Easy》这本书中的词根词缀整理笔记，关于这本词汇书的介绍感兴趣的可以看这篇：<a href="https://leo-philo.github.io/post/ru-he-li-yong-zhi-shu-xing-si-wei-tu-po-ti-gao-dan-ci-liang/"></a></p>
+<h2 id="第一章-how-to-talk-about-personality">第一章 How To Talk About Personality</h2>
+<h3 id="1egoist-利己主义者">1.egoist :	利己主义者</h3>
 <ol>
 <li>ego	:	I,self
 <ul>
@@ -186,8 +187,8 @@
 </ul>
 </li>
 </ol>
-<h2 id="2egotist-自大的人">2.egotist :自大的人</h2>
-<h2 id="3altruist-利他主义者">3.altruist :利他主义者</h2>
+<h3 id="2egotist-自大的人">2.egotist :自大的人</h3>
+<h3 id="3altruist-利他主义者">3.altruist :利他主义者</h3>
 <ol>
 <li>alter :other
 <ul>
@@ -201,16 +202,16 @@
 </ul>
 </li>
 </ol>
-<h2 id="4introvert-内向的人">4.introvert :内向的人</h2>
+<h3 id="4introvert-内向的人">4.introvert :内向的人</h3>
 <ol>
 <li>intro- :	inward 向内</li>
 <li>vert- :	来自拉丁语 verto=to turn</li>
 </ol>
-<h2 id="5extrovert-外向的人">5.extrovert :外向的人</h2>
+<h3 id="5extrovert-外向的人">5.extrovert :外向的人</h3>
 <ol>
 <li>extro- :	outward 向外</li>
 </ol>
-<h2 id="6ambivert-又内向又外向的普通人">6.ambivert :又内向又外向的普通人</h2>
+<h3 id="6ambivert-又内向又外向的普通人">6.ambivert :又内向又外向的普通人</h3>
 <ol>
 <li>ambi- :both 向两个方向
 <ul>
@@ -228,7 +229,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="7misanthrope-反人类">7.misanthrope :反人类</h2>
+<h3 id="7misanthrope-反人类">7.misanthrope :反人类</h3>
 <ol>
 <li>misein :拉丁语 to hate</li>
 <li>anthropes	:人类的
@@ -247,7 +248,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="8misogynist-反女人">8.misogynist :反女人</h2>
+<h3 id="8misogynist-反女人">8.misogynist :反女人</h3>
 <ol>
 <li>gyne	:女人 woman
 <ul>
@@ -266,7 +267,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="9misogamist-反婚姻">9.misogamist :反婚姻</h2>
+<h3 id="9misogamist-反婚姻">9.misogamist :反婚姻</h3>
 <ol>
 <li>gamos :婚姻,marriage
 <ul>
@@ -276,20 +277,20 @@
 </ul>
 </li>
 </ol>
-<h2 id="10ascetic-禁欲主义者">10.ascetic :禁欲主义者</h2>
+<h3 id="10ascetic-禁欲主义者">10.ascetic :禁欲主义者</h3>
 <ol>
 <li>asketes :拉丁语，monk，hermit</li>
 </ol>
-<h1 id="第二章-how-to-talk-about-doctors">第二章 How To Talk About Doctors</h1>
-<h2 id="1-internist-内科医生">1. internist : 内科医生</h2>
+<h2 id="第二章-how-to-talk-about-doctors">第二章 How To Talk About Doctors</h2>
+<h3 id="1-internist-内科医生">1. internist : 内科医生</h3>
 <ol>
 <li>internus :内部 inside</li>
 </ol>
-<h2 id="2-gynecologist-妇科医生">2. gynecologist : 妇科医生</h2>
+<h3 id="2-gynecologist-妇科医生">2. gynecologist : 妇科医生</h3>
 <ol>
 <li>logos :科学，研究 science，study</li>
 </ol>
-<h2 id="3-obstetrician-产科医生">3. obstetrician : 产科医生</h2>
+<h3 id="3-obstetrician-产科医生">3. obstetrician : 产科医生</h3>
 <ol>
 <li>ician :专家 expert</li>
 <li>obstetrix :助产士, 接生婆 midwife
@@ -299,7 +300,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="4pediatrician-儿科医生">4.pediatrician : 儿科医生</h2>
+<h3 id="4pediatrician-儿科医生">4.pediatrician : 儿科医生</h3>
 <ol>
 <li>paidos : 儿童 child
 <ul>
@@ -330,7 +331,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="5dermatologist-皮肤科医生">5.dermatologist : 皮肤科医生</h2>
+<h3 id="5dermatologist-皮肤科医生">5.dermatologist : 皮肤科医生</h3>
 <ol>
 <li>demos :人，people
 <ul>
@@ -356,7 +357,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="6ophthalmologist-眼科医生">6.ophthalmologist : 眼科医生</h2>
+<h3 id="6ophthalmologist-眼科医生">6.ophthalmologist : 眼科医生</h3>
 <ol>
 <li>ophthalmos :眼，eye
 <ul>
@@ -383,7 +384,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="7-orthopedist-整形外科医生">7. orthopedist : 整形外科医生</h2>
+<h3 id="7-orthopedist-整形外科医生">7. orthopedist : 整形外科医生</h3>
 <p>最初的整形外科医生致力于解决儿童脊椎弯曲的症状</p>
 <ol>
 <li>orthos : 直，正确 straight，correct ; paidos : child，儿童
@@ -393,7 +394,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="8cardiologist-心脏病学家">8.cardiologist : 心脏病学家</h2>
+<h3 id="8cardiologist-心脏病学家">8.cardiologist : 心脏病学家</h3>
 <ol>
 <li>kardia :心，heart
 <ul>
@@ -403,7 +404,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="9neurologist-神经病学家">9.neurologist : 神经病学家</h2>
+<h3 id="9neurologist-神经病学家">9.neurologist : 神经病学家</h3>
 <ol>
 <li>neuron :神经，nerve
 <ul>
@@ -421,7 +422,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="10psychiatrist-精神病医生">10.psychiatrist : 精神病医生</h2>
+<h3 id="10psychiatrist-精神病医生">10.psychiatrist : 精神病医生</h3>
 <ol>
 <li>psyche : 精神 ，spirit
 <ul>
@@ -434,8 +435,8 @@
 </ul>
 </li>
 </ol>
-<h1 id="第三章-how-to-talk-about-various-practitioners">第三章 How To Talk About Various Practitioners</h1>
-<h2 id="1psychologist-心理学家">1.psychologist 心理学家</h2>
+<h2 id="第三章-how-to-talk-about-various-practitioners">第三章 How To Talk About Various Practitioners</h2>
+<h3 id="1psychologist-心理学家">1.psychologist 心理学家</h3>
 <ul>
 <li><strong>psyche</strong> :  精神 spirit，soul,or mind.
 <ul>
@@ -461,8 +462,8 @@
 </li>
 <li><strong>logos</strong> : science or study.</li>
 </ul>
-<h2 id="2psychoanalyst-精神分析学家">2.psychoanalyst 精神分析学家</h2>
-<h2 id="3orthodontist-牙医">3.orthodontist 牙医</h2>
+<h3 id="2psychoanalyst-精神分析学家">2.psychoanalyst 精神分析学家</h3>
+<h3 id="3orthodontist-牙医">3.orthodontist 牙医</h3>
 <ol>
 <li>orthos : 直，正确 straight，correct</li>
 <li>odontos :	牙，tooth
@@ -486,7 +487,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="4optometrist-验光师">4.optometrist 验光师</h2>
+<h3 id="4optometrist-验光师">4.optometrist 验光师</h3>
 <ol>
 <li>opsis,optikos :视力， vision</li>
 <li>metron :测量，measurement
@@ -505,8 +506,8 @@
 </ul>
 </li>
 </ol>
-<h2 id="5optician-配镜师">5.optician 配镜师</h2>
-<h2 id="6osteopath-整骨疗法家整骨医生">6.osteopath 整骨疗法家,整骨医生</h2>
+<h3 id="5optician-配镜师">5.optician 配镜师</h3>
+<h3 id="6osteopath-整骨疗法家整骨医生">6.osteopath 整骨疗法家,整骨医生</h3>
 <ol>
 <li>osteon :骨骼 ，bone</li>
 <li>pathos :疾病，suffering，disease
@@ -515,14 +516,14 @@
 </ul>
 </li>
 </ol>
-<h2 id="7chiropractor-按摩师">7.chiropractor 按摩师</h2>
+<h3 id="7chiropractor-按摩师">7.chiropractor 按摩师</h3>
 <p>cheir（chiro-） :手，hand</p>
 <ul>
 <li>chiropody : 手足病治疗</li>
 <li>chirographer : 书法家</li>
 <li>chiromancy : 手相术（手+预测） 1.mancy :	预测，prediction，foretelling</li>
 </ul>
-<h2 id="8podiatrist-足科医生">8.podiatrist 足科医生</h2>
+<h3 id="8podiatrist-足科医生">8.podiatrist 足科医生</h3>
 <ol>
 <li>pous,podos :	脚，foot
 <ul>
@@ -550,7 +551,7 @@
 </ul>
 </li>
 </ol>
-<h2 id="9graphphologist-笔迹学家">9.graphphologist 笔迹学家</h2>
+<h3 id="9graphphologist-笔迹学家">9.graphphologist 笔迹学家</h3>
 <p>1.graphein :写， to write</p>
 <ul>
 <li>graphology :笔体学（尤用以推测书写者的性格）,笔迹相法,图表法</li>
@@ -582,7 +583,7 @@
 </ol>
 </li>
 </ul>
-<h2 id="10gerontologist-老年学专家">10.gerontologist 老年学专家</h2>
+<h3 id="10gerontologist-老年学专家">10.gerontologist 老年学专家</h3>
 <ol>
 <li>geras :老，old age</li>
 <li>geron :老人，old man
@@ -602,15 +603,15 @@
 </ul>
 </li>
 </ol>
-<h1 id="第四章-how-to-talk-about-science-and-scientists">第四章 How To Talk About Science And Scientists</h1>
-<h2 id="1anthropologist-人类学家">1.anthropologist 人类学家</h2>
+<h2 id="第四章-how-to-talk-about-science-and-scientists">第四章 How To Talk About Science And Scientists</h2>
+<h3 id="1anthropologist-人类学家">1.anthropologist 人类学家</h3>
 <p><em>Greek Root</em>:</p>
 <ul>
 <li><strong>1.<em>anthropos</em></strong>: mankind 人</li>
 <li><strong>2.<em>logos</em></strong>: science,study.科学，学习</li>
 </ul>
 <p>anthropology:人类学</p>
-<h2 id="2astronomer-天文学家">2.astronomer 天文学家</h2>
+<h3 id="2astronomer-天文学家">2.astronomer 天文学家</h3>
 <p>天文学家对天体的排列和其他天体感兴趣</p>
 <p>其他形式：</p>
 <ul>
@@ -656,7 +657,7 @@ auto-: self,自己<br>
 </ul>
 </li>
 </ul>
-<h2 id="3geologist-地质学家">3.geologist 地质学家</h2>
+<h3 id="3geologist-地质学家">3.geologist 地质学家</h3>
 <ul>
 <li><em><strong>geo</strong></em>: earth.
 <ul>
@@ -674,7 +675,7 @@ ergon: 工作<br>
 </ul>
 </li>
 </ul>
-<h2 id="4biologist-生物学家">4.biologist 生物学家</h2>
+<h3 id="4biologist-生物学家">4.biologist 生物学家</h3>
 <ul>
 <li>
 <p><em><strong>bios</strong></em>: 生命</p>
@@ -704,7 +705,7 @@ ergon: 工作<br>
 </ul>
 </li>
 </ul>
-<h2 id="5botanist-植物学家">5.botanist 植物学家</h2>
+<h3 id="5botanist-植物学家">5.botanist 植物学家</h3>
 <ul>
 <li><em><strong>botane</strong></em> : 植物
 <ul>
@@ -713,7 +714,7 @@ ergon: 工作<br>
 </ul>
 </li>
 </ul>
-<h2 id="6zoologist-动物学家">6.zoologist 动物学家</h2>
+<h3 id="6zoologist-动物学家">6.zoologist 动物学家</h3>
 <ul>
 <li><em><strong>zoion</strong></em>:  animal
 <ul>
@@ -722,7 +723,7 @@ ergon: 工作<br>
 </ul>
 </li>
 </ul>
-<h2 id="7entomologist-昆虫学家">7.entomologist 昆虫学家</h2>
+<h3 id="7entomologist-昆虫学家">7.entomologist 昆虫学家</h3>
 <p>昆虫都是身体分节的生物，可以想象成身体的一种切入</p>
 <p>insect也表示昆虫（in在里面，sectus切）</p>
 <ul>
@@ -760,7 +761,7 @@ ergon: 工作<br>
 <li>eccentric 偏离正常，不寻常<br>
 ec外面，centrum中心，中心之外</li>
 </ul>
-<h2 id="8philologist-语言学家">8.philologist 语言学家</h2>
+<h3 id="8philologist-语言学家">8.philologist 语言学家</h3>
 <p><em><strong>philein</strong></em>： to love,去爱</p>
 <ul>
 <li>
@@ -793,10 +794,10 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 <p><em><strong>logos</strong></em>: 除了科学还有词语或演讲的意思</p>
 <p>语言学还可以用linguistics (lingua,舌头)</p>
-<h2 id="9semanticist-语义学家">9.semanticist 语义学家</h2>
+<h3 id="9semanticist-语义学家">9.semanticist 语义学家</h3>
 <p>例句： The semantics of your thinking are all wrong.</p>
 <p>​			你认为的这些语义都是错误的</p>
-<h2 id="10sociologist-社会学家">10.sociologist 社会学家</h2>
+<h3 id="10sociologist-社会学家">10.sociologist 社会学家</h3>
 <ul>
 <li>
 <p><em><strong>socious</strong></em>: 陪伴</p>
@@ -825,8 +826,8 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 </li>
 </ul>
-<h1 id="第五章-how-to-talk-about-liars-and-lying">第五章 How To Talk About Liars And Lying</h1>
-<h2 id="1notorious-臭名昭著的">1.notorious  臭名昭著的</h2>
+<h2 id="第五章-how-to-talk-about-liars-and-lying">第五章 How To Talk About Liars And Lying</h2>
+<h3 id="1notorious-臭名昭著的">1.notorious  臭名昭著的</h3>
 <p><strong>词典解释</strong></p>
 <p><em>adj.</em> 臭名昭著的, 声名狼藉的</p>
 <p>副 词: notoriously<br>
@@ -841,7 +842,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <li>noted industrialist(知名的企业家)</li>
 <li>notorious exploiter(臭名昭著的剥削者)</li>
 </ul>
-<h2 id="2consummate-精湛的">2.consummate  精湛的</h2>
+<h3 id="2consummate-精湛的">2.consummate  精湛的</h3>
 <p><strong>词典解释</strong></p>
 <ol>
 <li><em>vt.</em> 使结束, 使完美</li>
@@ -856,7 +857,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <p><strong>例句</strong></p>
 <p>a consummate artist.</p>
 <p>一位精湛的艺术家（达到艺术的最高峰）</p>
-<h2 id="3incorrigible-无可救药的">3.incorrigible 无可救药的</h2>
+<h3 id="3incorrigible-无可救药的">3.incorrigible 无可救药的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li>拉丁语 <em><strong>corrigo</strong></em>: 改正，扶正</li>
@@ -865,7 +866,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <p><strong>例句</strong></p>
 <p>incorrigible philanderer.</p>
 <p>积习难改的花心男</p>
-<h2 id="4inveterate-成瘾的根深蒂固的">4.inveterate 成瘾的，根深蒂固的</h2>
+<h3 id="4inveterate-成瘾的根深蒂固的">4.inveterate 成瘾的，根深蒂固的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>vetus</strong></em>: 老的（通常表贬义）</li>
@@ -882,7 +883,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <p><strong>例句</strong></p>
 <p>inveterate drinkers(嗜酒成瘾的人)</p>
 <p>养成了嗜酒的“老”习惯</p>
-<h2 id="5congenital-天生的先天性的">5.congenital 天生的，先天性的</h2>
+<h3 id="5congenital-天生的先天性的">5.congenital 天生的，先天性的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li>希腊词根***genesis***: 出生，起源</li>
@@ -897,7 +898,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <p><strong>例句</strong></p>
 <p>congenital fear of the dark.</p>
 <p>天生怕黑</p>
-<h2 id="6chronic-习惯性的">6.chronic 习惯性的</h2>
+<h3 id="6chronic-习惯性的">6.chronic 习惯性的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li>希腊词***chronos***: 时间</li>
@@ -940,7 +941,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 </li>
 </ul>
-<h2 id="7pathological-病态的">7.pathological 病态的</h2>
+<h3 id="7pathological-病态的">7.pathological 病态的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>pathos</strong></em>: 疾病，suffering，disease</li>
@@ -979,7 +980,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 </li>
 </ul>
-<h2 id="8unconscionable-没有良心的">8.unconscionable 没有良心的</h2>
+<h3 id="8unconscionable-没有良心的">8.unconscionable 没有良心的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>scio</strong></em> : 去了解</li>
@@ -1027,9 +1028,9 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 </li>
 </ul>
-<h2 id="9glib-口齿伶俐的">9.glib 口齿伶俐的</h2>
+<h3 id="9glib-口齿伶俐的">9.glib 口齿伶俐的</h3>
 <p>glib talkers或者glib liars 是世故和狡猾的人，他们应答自如，能说会道</p>
-<h2 id="10egregious-过分的">10.egregious 过分的</h2>
+<h3 id="10egregious-过分的">10.egregious 过分的</h3>
 <ul>
 <li><em><strong>gregis:</strong></em> 同类，人群</li>
 <li>e- : 和ex- 一样,表示out</li>
@@ -1057,8 +1058,8 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </ul>
 </li>
 </ul>
-<h1 id="第六章-how-to-talk-about-actions">第六章 How To Talk About Actions</h1>
-<h2 id="1disparage-贬低">1.disparage 贬低</h2>
+<h2 id="第六章-how-to-talk-about-actions">第六章 How To Talk About Actions</h2>
+<h3 id="1disparage-贬低">1.disparage 贬低</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>par</strong></em> : 拉丁语，equal,平等</li>
@@ -1091,7 +1092,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 </blockquote>
 </li>
 </ul>
-<h2 id="2equivocate-含糊其辞">2.equivocate 含糊其辞</h2>
+<h3 id="2equivocate-含糊其辞">2.equivocate 含糊其辞</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>aequus</strong></em>: equal相等 (拼作equ-)</li>
@@ -1171,11 +1172,11 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 <ul>
 <li>equestrian 骑马的</li>
 </ul>
-<h2 id="3titillate-撩起逗引">3.titillate 撩起，逗引</h2>
+<h3 id="3titillate-撩起逗引">3.titillate 撩起，逗引</h3>
 <ul>
 <li>tickle 挠痒痒</li>
 </ul>
-<h2 id="4adulate-奉承谄媚">4.adulate 奉承，谄媚</h2>
+<h3 id="4adulate-奉承谄媚">4.adulate 奉承，谄媚</h3>
 <p><strong>相关单词</strong></p>
 <ul>
 <li>compliment 恭维<br>
@@ -1186,7 +1187,7 @@ Anglus: 安格鲁（英国人起源于盎格鲁撒克逊民族）</p>
 flattery到了荒谬的程度</li>
 </ul>
 <p>adulatory  adj.奉承的</p>
-<h2 id="5proscribe-禁止">5.proscribe 禁止</h2>
+<h3 id="5proscribe-禁止">5.proscribe 禁止</h3>
 <p>proscribe，“禁止”，经常用来指医学、宗教或司法上的禁止。</p>
 <p>医生用单子列出可能对病人造成伤害的食物、药品或者行为。教堂proscribes或宣布proscription（禁令）对他们教民有害的行为。法律“proscribes”对公共福利有害的行为。</p>
 <p><strong>词根</strong></p>
@@ -1238,7 +1239,7 @@ flattery到了荒谬的程度</li>
 </ul>
 </li>
 </ul>
-<h2 id="6obviate-消除">6.obviate 消除</h2>
+<h3 id="6obviate-消除">6.obviate 消除</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>via</strong></em> : 经由······</li>
@@ -1268,7 +1269,7 @@ flattery到了荒谬的程度</li>
 </blockquote>
 </li>
 </ul>
-<h2 id="7militate-妨碍">7.militate 妨碍</h2>
+<h3 id="7militate-妨碍">7.militate 妨碍</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>militis</strong></em> : 战士</li>
@@ -1287,7 +1288,7 @@ flattery到了荒谬的程度</li>
 <p>militant reformer（激进的改革者）</p>
 </li>
 </ul>
-<h2 id="8malign-诽谤">8.malign 诽谤</h2>
+<h3 id="8malign-诽谤">8.malign 诽谤</h3>
 <ul>
 <li><em><strong>malus</strong></em> 坏的，邪恶的</li>
 </ul>
@@ -1322,8 +1323,8 @@ flattery到了荒谬的程度</li>
 <li>facio 做，制造</li>
 </ul>
 <blockquote>
-<p>malefactor 是做坏事的人</p>
-<p>malefaction 是犯罪或邪恶的行为</p>
+<p>malefactor 是做坏事的人<br>
+malefaction 是犯罪或邪恶的行为</p>
 </blockquote>
 </li>
 <li>
@@ -1417,7 +1418,7 @@ flattery到了荒谬的程度</li>
 </ul>
 </li>
 </ul>
-<h2 id="9condone-宽恕">9.condone 宽恕</h2>
+<h3 id="9condone-宽恕">9.condone 宽恕</h3>
 <p>宽恕、不介意、原谅或不批评冒犯、反社会、不法行为</p>
 <ul>
 <li><strong>done</strong>： 给予 (拉丁语)
@@ -1428,7 +1429,7 @@ flattery到了荒谬的程度</li>
 </ul>
 </li>
 </ul>
-<h2 id="10placate-抚慰">10.placate 抚慰</h2>
+<h3 id="10placate-抚慰">10.placate 抚慰</h3>
 <ul>
 <li>
 <p><strong>plac</strong>-  讨好，缓和</p>
@@ -1457,8 +1458,8 @@ flattery到了荒谬的程度</li>
 </ul>
 </li>
 </ul>
-<h1 id="第七章-how-to-talk-about-various-speech-habits">第七章 How To Talk About Various Speech Habits</h1>
-<h2 id="1taciturn-沉默寡言的">1.taciturn 沉默寡言的</h2>
+<h2 id="第七章-how-to-talk-about-various-speech-habits">第七章 How To Talk About Various Speech Habits</h2>
+<h3 id="1taciturn-沉默寡言的">1.taciturn 沉默寡言的</h3>
 <p>近义词有：silent , uncommunicative , reticent ,  reserved , secretive, close-lipped</p>
 <p><strong>词根</strong></p>
 <ul>
@@ -1485,10 +1486,10 @@ He was reticent about his opinion.</p>
 <p>他有保留意见。</p>
 </li>
 </ul>
-<h2 id="2laconic-言简意赅的">2.laconic 言简意赅的</h2>
+<h3 id="2laconic-言简意赅的">2.laconic 言简意赅的</h3>
 <p>古代斯巴达原被称为拉科尼亚（Laconia）臣民虽然长期受苦，却形成了顽强、坚忍的性格，他们时刻准备作战。斯巴达人更以言语的简洁而闻名。</p>
 <p>laconic正是由Laconia派生而来——简洁、简明，用经济节约的词说话说到点儿上，恰与冗长拖沓相对照。</p>
-<h2 id="3inarticulate-笨嘴拙舌">3.inarticulate 笨嘴拙舌</h2>
+<h3 id="3inarticulate-笨嘴拙舌">3.inarticulate 笨嘴拙舌</h3>
 <ul>
 <li>
 <p><em><strong>articulus</strong></em>  连接点</p>
@@ -1509,7 +1510,7 @@ He was reticent about his opinion.</p>
 </ul>
 </li>
 </ul>
-<h2 id="4garrulous-多嘴的">4.garrulous 多嘴的</h2>
+<h3 id="4garrulous-多嘴的">4.garrulous 多嘴的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>garrio</strong></em> : 喋喋不休的说</li>
@@ -1517,13 +1518,13 @@ He was reticent about his opinion.</p>
 <blockquote>
 <p>garrulous 的说话者就像猴子一样喋喋不休。</p>
 </blockquote>
-<h2 id="5banal-迂腐的陈词滥调的">5.banal 迂腐的，陈词滥调的</h2>
+<h3 id="5banal-迂腐的陈词滥调的">5.banal 迂腐的，陈词滥调的</h3>
 <p>名词形式</p>
 <ul>
 <li>banality</li>
 <li>banalness</li>
 </ul>
-<h2 id="6verbose-啰嗦的">6.verbose 啰嗦的</h2>
+<h3 id="6verbose-啰嗦的">6.verbose 啰嗦的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>verbum</strong></em>  词句</li>
@@ -1531,7 +1532,7 @@ He was reticent about his opinion.</p>
 <blockquote>
 <p><em>verbose</em>的人就是唠叨的人。</p>
 </blockquote>
-<h2 id="7voluble-口若悬河的">7.voluble 口若悬河的</h2>
+<h3 id="7voluble-口若悬河的">7.voluble 口若悬河的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>volvo，volutus</strong></em>  转动</li>
@@ -1553,7 +1554,7 @@ He was reticent about his opinion.</p>
 </ul>
 </li>
 </ul>
-<h2 id="8cogent-有说服力的">8.cogent 有说服力的</h2>
+<h3 id="8cogent-有说服力的">8.cogent 有说服力的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li>
@@ -1562,7 +1563,7 @@ He was reticent about his opinion.</p>
 <p>cogent argument (具有说服力的论述)</p>
 </li>
 </ul>
-<h2 id="9vociferous-吵吵闹闹的">9.vociferous 吵吵闹闹的</h2>
+<h3 id="9vociferous-吵吵闹闹的">9.vociferous 吵吵闹闹的</h3>
 <ul>
 <li><strong>vox,vocis</strong>  voice声音
 <ul>
@@ -1610,7 +1611,7 @@ He was reticent about his opinion.</p>
 </ul>
 </li>
 </ul>
-<h2 id="10loquacious-爱说话的">10.loquacious 爱说话的</h2>
+<h3 id="10loquacious-爱说话的">10.loquacious 爱说话的</h3>
 <p><strong>词根</strong></p>
 <ul>
 <li><em><strong>loquor</strong></em> : 说话（拉丁语）</li>
