@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸的念想</title>
-    <updated>2020-01-01T13:55:19.144Z</updated>
+    <updated>2020-01-02T00:25:55.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
@@ -91,13 +91,13 @@
 <p>以前一直想过自己要弄个微信公众号或者个人网站啥的玩一玩，但是考虑到微信的生态太封闭了，还是选择自己搭建个人网站。</p>
 <p>博客历史：</p>
 <ul>
-<li>2019-12-01：萌生搭建个人博客的想法</li>
-<li>2019-12-25：对比了目前主流的博客框架，最终决定利用<code>Github Pages</code>＋<code>Gridea</code>搭建个人博客</li>
-<li>2019-12-02：发布第一篇内容 <a href="https://leo-philo.github.io/post/lesslessword-power-made-easygreatergreater-xue-xi-bi-ji-or-how-to-talk-about-doctors/">《Word Power Made Easy》词根词缀整理笔记【全】</a></li>
+<li>2019-11-01：萌生搭建个人博客的想法</li>
+<li>2019-12-12：对比了目前主流的博客框架，最终决定利用<code>Github Pages</code>＋<code>Gridea</code>搭建个人博客</li>
+<li>2019-12-15：发布第一篇内容 <a href="https://leo-philo.github.io/post/notes-word-power-made-easy/">《Word Power Made Easy》词根词缀整理笔记【全】</a></li>
 <li>2019-12-31： 发表这篇年终总结</li>
 </ul>
 <h1 id="八-后记">八、后记</h1>
-<p>社会心理学家艾略特·阿伦森这样解释社会心理学的真义：</p>
+<p>社会心理学家埃利奥特·阿伦森（Elliot Aronson）这样解释社会心理学的真义：</p>
 <blockquote>
 <p>无论个人还是社会，都可以向好的方向发展，一个人可以不受儿时不愉快经历和个性缺陷的束缚，通过自我完善成就可能的自我。</p>
 </blockquote>
@@ -173,7 +173,7 @@
         <id>https://leo-philo.github.io/post/notes-word-power-made-easy</id>
         <link href="https://leo-philo.github.io/post/notes-word-power-made-easy">
         </link>
-        <updated>2019-12-02T04:58:42.000Z</updated>
+        <updated>2019-12-15T04:58:42.000Z</updated>
         <content type="html"><![CDATA[<h1 id="第一章-how-to-talk-about-personality">第一章 How To Talk About Personality</h1>
 <h2 id="1egoist-利己主义者">1.egoist :	利己主义者</h2>
 <ol>
