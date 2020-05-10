@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-philo.github.io/</id>
     <title>云宸的念想</title>
-    <updated>2020-01-15T13:54:04.159Z</updated>
+    <updated>2020-05-10T07:23:03.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-philo.github.io/"/>
     <link rel="self" href="https://leo-philo.github.io/atom.xml"/>
@@ -63,9 +63,9 @@
 </code></pre>
 <p>今日任务</p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4400554"><label class="task-list-item-label" for="task-item-4400554"> 早起</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2661992"><label class="task-list-item-label" for="task-item-2661992"> 锻炼</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5382694"><label class="task-list-item-label" for="task-item-5382694"> 学习</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4412272"><label class="task-list-item-label" for="task-item-4412272"> 早起</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7353916"><label class="task-list-item-label" for="task-item-7353916"> 锻炼</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5226322"><label class="task-list-item-label" for="task-item-5226322"> 学习</label></li>
 </ul>
 <h3 id="8插入链接">8.插入链接</h3>
 <p>语法示例：</p>
@@ -218,7 +218,7 @@ C --&gt;|条件C3| F[&quot;模块F(引号可转义特殊字符)&quot;]
 <p>锻炼身体已经成为我生活习惯的一部分，毕竟身体是革命的本钱。最高兴的事莫过于偶然发现自己去年穿的衣服有点小，然后一去量发现长高了3厘米。嗯，看来坚持运动还是有助于长高的啊。</p>
 <figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/01/01/lB3QkgLJF62cZMI.jpg" alt="" loading="lazy"></figure>
 <h1 id="七-军运会志愿者">七、军运会志愿者</h1>
-<p>非常幸运地选上了军运会志愿者，虽然被分配在比较偏的梁子湖铁人三项分馆，但这次经历对我来说还是非常有意义，第一次能有机会和那些运动员近距离接触。</p>
+<p>说来也很巧，以往的汉马（武汉马拉松）志愿者报名的时候都报不上，军运会第二批开始招志愿者的时候想碰碰运气，经过了几轮面试结果幸运通过。虽然被分配在比较偏的梁子湖铁人三项分馆，但这次经历对我来说还是非常有意义，第一次能有机会和这些运动员近距离接触。</p>
 <p>比赛结束大家都疯狂地堵住运动员合影签名，和老外交换纪念物品。也许这样精彩的体验这辈子只有这一次，当时培训和正式比赛的那些日子到现在还记忆尤新。</p>
 <p><img src="https://i.loli.net/2020/01/01/Ms2FVGSQBx4aoU9.png" alt="" loading="lazy"><br>
 <img src="https://i.loli.net/2020/01/01/I5LPYJbq1Dtw8ca.png" alt="" loading="lazy"></p>
@@ -237,7 +237,7 @@ C --&gt;|条件C3| F[&quot;模块F(引号可转义特殊字符)&quot;]
 <p>无论个人还是社会，都可以向好的方向发展，一个人可以不受儿时不愉快经历和个性缺陷的束缚，通过自我完善成就可能的自我。</p>
 </blockquote>
 <p>对每个人而言，真正的职责只有一个：找到自我。他的职责只是找到自己的命运——而不是他人的命运——然后在心中坚守其一生，全心全意，永不停息。</p>
-<p>曾经的自己也曾总觉得自己一事无成，没啥特点。2018年年末的那些日子可以说是大学生涯的至暗时刻。现在想来有什么大不了的呢，凡是过往，皆为序章。如今我已走出阴霾，慢慢地克服以前不好的习惯，坚定地向着自己的目标前进，一切都在往更好的方向发展。虽然过去的日子有很多的遗憾，但是以后的自己将会好好对待生活，新的一年将会为自己心中的目标继续努力！</p>
+<p>曾经的自己也曾总觉得自己一事无成，没啥特点。2018年年末的那些日子可以说是大学生涯的至暗时刻。现在想来有什么大不了的呢，凡是过往，皆为序章。如今我已走出阴霾，慢慢地克服以前不好的习惯，坚定地向着自己的目标前进，一切都在往更好的方向发展。虽然过去的日子有很多的遗憾，但是以后的自己将会好好对待生活，新的一年将会继续为自己心中的目标继续努力！</p>
 <p>灯火阑珊万人攒动之处不必找寻，我在更好的未来微笑颔首。<br>
 <img src="https://i.loli.net/2020/01/01/pTZoJBsfUblL9wF.jpg" alt="" loading="lazy"></p>
 <div align="center">
